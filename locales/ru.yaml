@@ -1,0 +1,11 @@
+greeting: <b>Привет ${uppercase(from.first_name)}!</b>
+mainMenu: Главное меню
+mainMenuHelp: ℹ️ Помощь
+mainMenuCreateAnnouncement: ✉️ Создать объявление
+mainMenuFeedback: 📮 Обратная связь
+mainMenuFindAnnouncement: 📥 Смотреть объявления
+mainMenuPersonalCabinet: 🗄️ Личный кабинет
+mainMenuSearch: 🔍 Поиск
+mainMenuFavorites: ⭐ Избранное
+mainMenuHeadings: 📓 Рубрики
+mainMenuBack: ⬅️ На главное меню

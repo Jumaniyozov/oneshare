@@ -1,0 +1,12 @@
+greeting: <b>Salom ${uppercase(from.first_name)}!</b>
+mainMenu: Asosiy lavha
+mainMenuHelp: ℹ️ Yordam
+mainMenuCreateAnnouncement: ✉️E'lon berish
+mainMenuFeedback: 📮  Aloqa
+mainMenuFindAnnouncement: 📥 E'lonlarni ko'rish
+mainMenuPersonalCabinet: 🗄️  Shaxsiy kabinet
+mainMenuSearch: 🔍 Qidirish
+mainMenuFavorites: ⭐ Tanlanganlar
+mainMenuHeadings: 📓 Sarlavhalar
+mainMenuBack: ⬅️ Asosiy lavhaga
+
